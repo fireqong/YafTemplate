@@ -13,5 +13,6 @@
     ],
     "require": {
 		"church/yaf-command": "dev-master"
-	}
+	},
+	"minimum-stability": "dev"
 }
