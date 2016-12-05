@@ -1,4 +1,16 @@
 {
+	"name": "church/YafTemplate",
+    "type": "library",
+    "description": "yaf template",
+    "keywords": ["yaf template", "yaf模板"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "qiqing",
+            "email": "church_qi@aliyun.com",
+            "homepage": "https://github.com/fireqong"
+        }
+    ],
     "require": {
 		"church/YafCommand": "dev-master"
 	},
