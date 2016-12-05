@@ -13,7 +13,7 @@
             "source": {
                 "type": "git",
                 "url": "E:/xampp/htdocs/project/YafCommand",
-                "reference": "096019714ecff7bb504afc2e5caaab97ec77ffeb"
+                "reference": "e9c984ae1c704124249aaff1dd0cd64a50b9bc95"
             },
             "require": {
                 "symfony/console": "^3.2"
@@ -39,7 +39,7 @@
                 "yaf generator",
                 "yaf组件生成器"
             ],
-            "time": "2016-12-05 08:45:29"
+            "time": "2016-12-05 08:50:39"
         },
         {
             "name": "psr/log",

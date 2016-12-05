@@ -5,7 +5,7 @@
 	"repositories": [
         {
             "type": "vcs",
-            "url": "file:///E:/xampp/htdocs/project/YafCommand"
+            "url": "https://github.com/fireqong/YafCommand"
         }
     ]
 }
