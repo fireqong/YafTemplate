@@ -1,5 +1,5 @@
 {
-	"name": "church/YafTemplate",
+	"name": "church/yaf-template",
     "type": "library",
     "description": "yaf template",
     "keywords": ["yaf template", "yaf模板"],
