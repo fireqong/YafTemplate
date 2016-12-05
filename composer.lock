@@ -4,16 +4,22 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "bca9db5cf57c587f60337e1e4cbdb5e9",
-    "content-hash": "9b794673a478400f82a6351b99723c24",
+    "hash": "d92f82c4a8c7cfcf57faa2fc58b8f3e6",
+    "content-hash": "dafb6d0eb0811f4d6e24d0e96929a531",
     "packages": [
         {
-            "name": "church/YafCommand",
+            "name": "church/yaf-command",
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "E:/xampp/htdocs/project/YafCommand",
-                "reference": "e9c984ae1c704124249aaff1dd0cd64a50b9bc95"
+                "url": "https://github.com/fireqong/YafCommand.git",
+                "reference": "bb54b444845b4882608955930ac27c021d531f9f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/fireqong/YafCommand/zipball/bb54b444845b4882608955930ac27c021d531f9f",
+                "reference": "bb54b444845b4882608955930ac27c021d531f9f",
+                "shasum": ""
             },
             "require": {
                 "symfony/console": "^3.2"
@@ -39,7 +45,11 @@
                 "yaf generator",
                 "yaf组件生成器"
             ],
-            "time": "2016-12-05 08:50:39"
+            "support": {
+                "source": "https://github.com/fireqong/YafCommand/tree/master",
+                "issues": "https://github.com/fireqong/YafCommand/issues"
+            },
+            "time": "2016-12-05 09:16:59"
         },
         {
             "name": "psr/log",
@@ -272,7 +282,7 @@
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
-        "church/yafcommand": 20
+        "church/yaf-command": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,
