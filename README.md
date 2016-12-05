@@ -21,7 +21,7 @@ php console make:plugin Test	#创建插件
 ```
 
 
-> 注意: yaf扩展, 为了使用命名空间的方式和支持composer, 必须在php.ini加上
+> 注意: 为了使用命名空间的方式和支持composer, 必须在php.ini加上
 
 ```conf
 [Yaf]
