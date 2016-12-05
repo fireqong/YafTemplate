@@ -9,7 +9,7 @@
 ### 安装
 
 ```shell
-composer create-project church\YafTemplate yaf-website
+composer create-project church/yaf-template yaf-website dev-master
 ```
 
 ### 工具使用
