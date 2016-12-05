@@ -1,0 +1,11 @@
+{
+    "require": {
+		"church/YafCommand": "dev-master"
+	},
+	"repositories": [
+        {
+            "type": "vcs",
+            "url": "file:///E:/xampp/htdocs/project/YafCommand"
+        }
+    ]
+}
