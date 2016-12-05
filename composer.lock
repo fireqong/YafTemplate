@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "d92f82c4a8c7cfcf57faa2fc58b8f3e6",
-    "content-hash": "dafb6d0eb0811f4d6e24d0e96929a531",
+    "hash": "008c3a41bdcc0d38597612cb034236dc",
+    "content-hash": "33d20e9f32fe3c633627af8485d59fe9",
     "packages": [
         {
             "name": "church/yaf-command",

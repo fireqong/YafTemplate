@@ -13,11 +13,5 @@
     ],
     "require": {
 		"church/yaf-command": "dev-master"
-	},
-	"repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/fireqong/YafCommand"
-        }
-    ]
+	}
 }
