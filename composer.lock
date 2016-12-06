@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "008c3a41bdcc0d38597612cb034236dc",
-    "content-hash": "33d20e9f32fe3c633627af8485d59fe9",
+    "hash": "63acfeb25de52d709def251dd3053fae",
+    "content-hash": "1c8f2fa6943c963ab842d8f081adfdd9",
     "packages": [
         {
             "name": "church/yaf-command",
@@ -53,7 +53,7 @@
         },
         {
             "name": "psr/log",
-            "version": "1.0.2",
+            "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-fig/log.git",
@@ -100,16 +100,16 @@
         },
         {
             "name": "symfony/console",
-            "version": "v3.2.0",
+            "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/console.git",
-                "reference": "09d0fd33560e3573185a2ea17614e37ba38716c5"
+                "reference": "0eeddc19feb3bd91c443e676bd07c6ce5c30cfa3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://packagist.phpcomposer.com/files/symfony/console/09d0fd33560e3573185a2ea17614e37ba38716c5.zip",
-                "reference": "09d0fd33560e3573185a2ea17614e37ba38716c5",
+                "url": "https://packagist.phpcomposer.com/files/symfony/console/0eeddc19feb3bd91c443e676bd07c6ce5c30cfa3.zip",
+                "reference": "0eeddc19feb3bd91c443e676bd07c6ce5c30cfa3",
                 "shasum": ""
             },
             "require": {
@@ -132,7 +132,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "3.2-dev"
+                    "dev-master": "3.3-dev"
                 }
             },
             "autoload": {
@@ -159,20 +159,20 @@
             ],
             "description": "Symfony Console Component",
             "homepage": "https://symfony.com",
-            "time": "2016-11-16 22:18:16"
+            "time": "2016-11-19 20:35:20"
         },
         {
             "name": "symfony/debug",
-            "version": "v3.2.0",
+            "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/debug.git",
-                "reference": "9f923e68d524a3095c5a2ae5fc7220c7cbc12231"
+                "reference": "342af93b6be3aedfc922c7cf07e4e5d0bc96c6a7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://packagist.phpcomposer.com/files/symfony/debug/9f923e68d524a3095c5a2ae5fc7220c7cbc12231.zip",
-                "reference": "9f923e68d524a3095c5a2ae5fc7220c7cbc12231",
+                "url": "https://packagist.phpcomposer.com/files/symfony/debug/342af93b6be3aedfc922c7cf07e4e5d0bc96c6a7.zip",
+                "reference": "342af93b6be3aedfc922c7cf07e4e5d0bc96c6a7",
                 "shasum": ""
             },
             "require": {
@@ -189,7 +189,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "3.2-dev"
+                    "dev-master": "3.3-dev"
                 }
             },
             "autoload": {
@@ -216,11 +216,11 @@
             ],
             "description": "Symfony Debug Component",
             "homepage": "https://symfony.com",
-            "time": "2016-11-16 22:18:16"
+            "time": "2016-11-19 20:35:20"
         },
         {
             "name": "symfony/polyfill-mbstring",
-            "version": "v1.3.0",
+            "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-mbstring.git",
@@ -280,7 +280,7 @@
     ],
     "packages-dev": [],
     "aliases": [],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "stability-flags": {
         "church/yaf-command": 20
     },
