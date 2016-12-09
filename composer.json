@@ -1,6 +1,6 @@
 {
 	"name": "church/yaf-template",
-    "type": "library",
+    "type": "project",
     "description": "yaf template",
     "keywords": ["yaf template", "yaf模板"],
     "license": "MIT",
